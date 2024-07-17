@@ -1,0 +1,16 @@
+.agrandarBoton{
+    transition-property: transform;
+    transition-duration: 0.3s;
+}
+.agrandarBoton:hover{
+    transform: scale(1.05);
+}
+
+.colorBoton{
+    transition-property: background-color;
+    transition-duration: 0.6s;
+}
+.colorBoton:hover{
+    background-color: #ffff49;
+
+}
